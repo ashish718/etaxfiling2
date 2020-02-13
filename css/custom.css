@@ -257,3 +257,7 @@ ol.breadcrumb li a:after{
 		padding-left:0;
 	}
 }
+.caption p{
+	text-align: justify;
+  text-justify: inter-word;
+}
